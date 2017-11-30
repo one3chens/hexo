@@ -28,7 +28,7 @@
   "author": "Tommy Chen <tommy351@gmail.com> (http://zespia.tw)",
   "maintainers": [
     "Abner Chou <hi@abnerchou.me> (http://abnerchou.me)"
-    ],
+  ],
   "license": "MIT",
   "dependencies": {
     "abbrev": "^1.0.7",
@@ -46,7 +46,7 @@
     "js-yaml": "^3.6.1",
     "lodash": "^4.13.1",
     "minimatch": "^3.0.0",
-    "moment": "~2.13.0",
+    "moment": "~2.19.3",
     "moment-timezone": "^0.5.4",
     "nunjucks": "^2.4.2",
     "pretty-hrtime": "^1.0.2",
